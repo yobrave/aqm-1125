@@ -1,0 +1,1 @@
+Smallest quest today: fixed one misaligned pixel in a footer nobody opens, then refreshed the page four times just to watch it sit perfectly still.
